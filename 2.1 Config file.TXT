@@ -1,0 +1,7 @@
+[SECTION_DETAILS]
+key1 = https://www.kerava.fi/
+key2 = https://www.helsinki.fi/fi
+
+[SECTION_HEAD]
+key1 = Kerava - Keravan kaupunki
+key2 = Helsingin yliopisto
