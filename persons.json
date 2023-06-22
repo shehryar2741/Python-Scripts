@@ -1,0 +1,52 @@
+{
+	"persons": [
+		{
+			"name": "Erika McSherry",
+			"email": "Erika.McSherry@tampere.fi",
+			"phonenumber": "+358407581724",
+			"address": {
+				"streetname": "Aleksis Kiven katu",
+				"buildingnumber": "16 C",
+				"postalcode": "33101",
+				"townname": "Tampere"
+			},
+			"age": 36
+		},
+		{
+			"name": "Erika Eischer",
+			"email": "Erika.Eischer@tampere.fi",
+			"phonenumber": "+358405450011",
+			"address": {
+				"streetname": "Aleksis Kiven katu",
+				"buildingnumber": "14 C",
+				"postalcode": "33101",
+				"townname": "Tampere"
+			},
+			"age": 41
+		},
+		{
+			"name": "Mia Lumio",
+			"email": "Mia.Lumio@tampere.fi",
+			"phonenumber": "+358406586569",
+			"address": {
+				"streetname": "Sammonkatu",
+				"buildingnumber": "75",
+				"postalcode": "33540",
+				"townname": "Tampere"
+			},
+			"age": 32
+		},
+		{
+			"name": "Anna Jukantupa",
+			"email": "Anna.Jukantupa@tampere.fi",
+			"phonenumber": "+358417308243",
+			"address": {
+				"streetname": "Puutarhakatu",
+				"buildingnumber": "21",
+				"postalcode": "33230",
+				"townname": "Tampere"
+			},
+			"age": 29
+		}
+	]
+}
